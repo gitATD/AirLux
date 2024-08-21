@@ -1,0 +1,9 @@
+body {
+  font-family: "Eras ITC";
+  background: url("../../assets/img/Test.jpg") fixed center / cover no-repeat;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
