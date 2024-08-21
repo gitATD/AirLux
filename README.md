@@ -1,1 +1,2 @@
 # AirLux
+This is a project hosted on my local computer (localhost) using Apache Tomcat Server. It is basically an online portal of an imaginary airline named "AirLux", to enable customers to book their flight tickets. Not only does it provide a medium to the customers to book the tickets, it also provides administrators an interface to view all the bookings made, customer accounts created and flights scheduled so far.
